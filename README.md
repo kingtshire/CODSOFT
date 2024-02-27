@@ -16,9 +16,8 @@ This is a simple landing page, a traveling agency providing the best travel serv
 
 ## Preview
 
-[Live Demo](#) <!-- Add the link to your live demo here -->
+[Live Demo](#)(https://kingtshire.github.io/CODSOFT/)
 
-![Preview](screenshot.png) <!-- Add a screenshot of your landing page -->
 
 
 ## Credits
